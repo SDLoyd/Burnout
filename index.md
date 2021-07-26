@@ -4,15 +4,16 @@
 
 ## Description
 
-The Kaggle [data](https://www.kaggle.com/blurredmachine/are-your-employees-burning-out) provided by [Paras Varshney](https://www.kaggle.com/blurredmachine).
+The purpose of this project is to analyze a Kaggle data set and to create a predictive burnout model.
 
 ## Data
 
-The Kaggle [data](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) provided by [Clément Bisaillon](https://www.kaggle.com/clmentbisaillon).
+The Kaggle [data](https://www.kaggle.com/blurredmachine/are-your-employees-burning-out) provided by [Paras Varshney](https://www.kaggle.com/blurredmachine).
 
 ## EDA 
 
 A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fakenews-pandas-profile-report.html) is available.
+
 
 ## Code
 
@@ -63,4 +64,5 @@ Try [Anaconda](https://www.anaconda.com/).
 ## Credits
 
 _News [image](https://unsplash.com/photos/FPNnKfjcbNU) by Nijwam Swargiary at [Unsplash](https://unsplash.com/)_
+
 
