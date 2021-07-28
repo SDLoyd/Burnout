@@ -10,7 +10,9 @@ The Kaggle [data](https://www.kaggle.com/blurredmachine/are-your-employees-burni
 
 The Kaggle [data](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) provided by [Clément Bisaillon](https://www.kaggle.com/clmentbisaillon).
 
-## EDA 
+## EDA
+
+A pandas-profiling [report](https://sdloyd.github.io/Burnout/pandasprofile/burnout-pandas-profile-report.html) is available.
 
 ## Code
 
