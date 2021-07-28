@@ -18,7 +18,7 @@ A pandas-profiling [report](https://sdloyd.github.io/Burnout/pandasprofile/burno
 
 The python [code](https://github.com/SDLoyd/Burnout/blob/master/code/burnout.ipynb) is available as a Jypyter notebook.
 
-If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Burnout/blob/master/code/burnout.ipynb).
+If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Burnout/blob/main/code/burnout.ipynb).
 
 ## Documentation
 
