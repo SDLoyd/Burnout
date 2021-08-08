@@ -40,8 +40,8 @@ Try [Anaconda](https://www.anaconda.com/).
 
 ## Model Folders
 
-* [Pickle Format](https://github.com/SDLoyd/FakeNews/blob/master/pickle) 
-* [PyCaret Format](https://github.com/SDLoyd/FakeNews/blob/master/model)
+* [Pickle Format](https://github.com/SDLoyd/Burnout/blob/master/pickle) 
+* [PyCaret Format](https://github.com/SDLoyd/Burnout/blob/master/model)
 
 ## Tools
 
