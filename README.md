@@ -1,4 +1,4 @@
-# Burnout
+# Corporate Burnout
 
 <img src="images/burnout.jpg" width ="500">
 
