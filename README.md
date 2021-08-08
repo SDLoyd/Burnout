@@ -14,13 +14,13 @@ The Kaggle [data](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-data
 
 A pandas-profiling [report](https://sdloyd.github.io/Burnout/pandasprofile/burnout-pandas-profile-report.html) is available.
 
-## Primary Code With Mental Fatigue
+## Primary Code With Mental Fatigue Score
 
 The python [code](https://github.com/SDLoyd/Burnout/blob/master/code/burnout_primary_withmental.ipynb) is available as a Jypyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Burnout/blob/main/code/burnout_primary_withmental.ipynb).
 
-## Secondary Code Without Mental Fatigue
+## Secondary Code Without Mental Fatigue Score
 
 The python [code](https://github.com/SDLoyd/Burnout/blob/master/code/burnout_secondary_womental.ipynb) is available as a Jypyter notebook.
 
@@ -38,6 +38,8 @@ Try [Anaconda](https://www.anaconda.com/).
 
 ## Model Folders
 
+* [Pickle Format](https://github.com/SDLoyd/FakeNews/blob/master/pickle) 
+* [PyCaret Format](https://github.com/SDLoyd/FakeNews/blob/master/model)
 
 ## Tools
 
