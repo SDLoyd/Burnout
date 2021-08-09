@@ -28,7 +28,11 @@ If you have trouble with GitHub rendering the file, please try [here](https://nb
 
 ## Documentation
 
+[Executive Report](docs/burnout_report.pdf)
+
 ## Presentation
+
+[Executive Presentation](https://youtu.be/znJ4-z4rHdw)
 
 ## Instructions
 

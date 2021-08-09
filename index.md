@@ -32,6 +32,8 @@ If you have trouble with GitHub rendering the file, please try [here](https://nb
 
 ## Presentation
 
+[Executive Presentation](https://youtu.be/znJ4-z4rHdw)
+
 ## Instructions
 
 To run this notebook locally, install Jupyter, download the data set, change the file location to load the code and data, and install all the library dependencies.
