@@ -16,13 +16,13 @@ A pandas-profiling [report](https://sdloyd.github.io/Burnout/pandasprofile/burno
 
 ## Primary Code With Mental Fatigue Score
 
-The python [code](https://github.com/SDLoyd/Burnout/blob/master/code/burnout_primary_withmental.ipynb) is available as a Jypyter notebook.
+The python [code](https://github.com/SDLoyd/Burnout/blob/master/code/burnout_primary_withmental.ipynb) is available as a Jupyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Burnout/blob/main/code/burnout_primary_withmental.ipynb).
 
 ## Secondary Code Without Mental Fatigue Score
 
-The python [code](https://github.com/SDLoyd/Burnout/blob/master/code/burnout_secondary_womental.ipynb) is available as a Jypyter notebook.
+The python [code](https://github.com/SDLoyd/Burnout/blob/master/code/burnout_secondary_womental.ipynb) is available as a Jupyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Burnout/blob/main/code/burnout_secondary_womental.ipynb).
 
