@@ -4,11 +4,11 @@
 
 ## Description
 
-The Kaggle [data](https://www.kaggle.com/blurredmachine/are-your-employees-burning-out) provided by [Paras Varshney](https://www.kaggle.com/blurredmachine).
+The purpose of this project is to analyze a Kaggle data set and to create a predictive burnout model.
 
 ## Data
 
-The Kaggle [data](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) provided by [Clément Bisaillon](https://www.kaggle.com/clmentbisaillon).
+The Kaggle [data](https://www.kaggle.com/blurredmachine/are-your-employees-burning-out) provided by [Paras Varshney](https://www.kaggle.com/blurredmachine).
 
 ## EDA
 
