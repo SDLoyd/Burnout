@@ -32,7 +32,7 @@ If you have trouble with GitHub rendering the file, please try [here](https://nb
 
 ## Presentation
 
-[Executive Presentation](https://youtu.be/znJ4-z4rHdw)
+[Executive Presentation](https://youtu.be/o0suLDkGSjI)
 
 ## Instructions
 
